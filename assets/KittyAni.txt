@@ -1,0 +1,48 @@
+
+KittyAni.png
+size: 128, 32
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Run1
+  rotate: false
+  xy: 53, 4
+  size: 15, 13
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+Run2
+  rotate: false
+  xy: 2, 3
+  size: 15, 14
+  orig: 16, 16
+  offset: 1, 0
+  index: -1
+Run3
+  rotate: false
+  xy: 36, 3
+  size: 15, 14
+  orig: 16, 16
+  offset: 1, 0
+  index: -1
+Run4
+  rotate: false
+  xy: 19, 3
+  size: 15, 14
+  orig: 16, 16
+  offset: 1, 0
+  index: -1
+walk1
+  rotate: false
+  xy: 70, 3
+  size: 12, 14
+  orig: 16, 16
+  offset: 3, 0
+  index: -1
+walk2
+  rotate: false
+  xy: 84, 2
+  size: 12, 15
+  orig: 16, 16
+  offset: 3, 0
+  index: -1
